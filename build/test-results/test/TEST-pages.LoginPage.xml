@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pages.LoginPage" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-02T15:12:14" hostname="DESKTOP-Q5OPC1B" time="29.43">
+  <properties/>
+  <testcase name="ValidateLoginFail()" classname="pages.LoginPage" time="29.43"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+]]></system-err>
+</testsuite>
