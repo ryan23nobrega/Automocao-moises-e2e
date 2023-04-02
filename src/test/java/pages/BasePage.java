@@ -39,7 +39,7 @@ public class BasePage {
 
     @AfterEach
     public void tearDown() {
-           //driver.quit();
+           driver.quit();
     }
 
 }
